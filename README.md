@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**aboalfazlH/aboalfazlH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am [aboalfazlH], i a Backend Developer and Robot builder.i using django and create open source projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies & Tools
+
+
+### Back-End
+![Django](https://img.shields.io/badge/-Django-FF2D20?logo=django&logoColor=fff)
+
+### Robot
+![Bale](https://img.shields.io/badge/bale-success)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff)

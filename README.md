@@ -43,6 +43,7 @@ i'm aboalfazlH backend developer with python,django
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ![Js](https://img.shields.io/badge/js-ffff00?style=for-the-badge&logo=javascript&logoColor=black)
 ![Css](https://img.shields.io/badge/css-A300A3?style=for-the-badge&logo=css&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 #### level 3
 ![Csharp](https://img.shields.io/badge/Csharp-A300A3?style=for-the-badge&logo=cs&logoColor=white)

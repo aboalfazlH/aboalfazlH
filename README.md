@@ -33,8 +33,6 @@ i'm aboalfazlH backend developer with python,django
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Bale Bot](https://img.shields.io/badge/Bale-00BDAA?style=for-the-badge&logo=bale&logoColor=white)
 ![Html](https://shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=f06529&style=for-the-badge)
 ![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)

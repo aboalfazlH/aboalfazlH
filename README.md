@@ -19,10 +19,6 @@ i'm aboalfazlH backend developer with python,django
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![License](https://img.shields.io/badge/LICENSE-grey?style=for-the-badge)
-![MIT](https://img.shields.io/badge/MIT-green?style=for-the-badge)
-![Contributions](https://img.shields.io/badge/CONTRIBUTIONS-grey?style=for-the-badge)
-![Welcome](https://img.shields.io/badge/WELCOME-purple?style=for-the-badge)
 ![Version](https://img.shields.io/badge/1.0.0-blue?style=for-the-badge)
 
 

@@ -19,7 +19,6 @@ i'm aboalfazlH backend developer with python,django
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Version](https://img.shields.io/badge/1.0.0-blue?style=for-the-badge)
 
 
 ### 🥷 My skils order by level

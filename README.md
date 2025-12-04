@@ -30,7 +30,7 @@ i'm aboalfazlH backend developer with python,django
 
 ### 🥷 My skils order by level
 
-#### level 1
+#### Level 1
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,13 +39,16 @@ i'm aboalfazlH backend developer with python,django
 ![Html](https://shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=f06529&style=for-the-badge)
 ![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
-#### level 2
+#### Level 2
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ![Js](https://img.shields.io/badge/js-ffff00?style=for-the-badge&logo=javascript&logoColor=black)
 ![Css](https://img.shields.io/badge/css-A300A3?style=for-the-badge&logo=css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-#### level 3
+#### Level 3
 ![Csharp](https://img.shields.io/badge/Csharp-A300A3?style=for-the-badge&logo=cs&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+
+### My activity graph
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=aboalfazlH&theme=merko)](https://github.com/aboalfazlH)

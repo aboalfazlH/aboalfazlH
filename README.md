@@ -2,6 +2,12 @@
 
 i'm aboalfazlH backend developer with python,django
 
+### My activity graph
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=aboalfazlH&theme=merko)](https://github.com/aboalfazlH)
+<div>
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aboalfazlH&theme=merko&background=0d1117&stroke=30363d&ring=00FF41&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff)](https://github.com/aboalfazlH)
+</div>
+
 ### 🧠 Back-End
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -50,6 +56,3 @@ i'm aboalfazlH backend developer with python,django
 ![Csharp](https://img.shields.io/badge/Csharp-A300A3?style=for-the-badge&logo=cs&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
-### My activity graph
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=aboalfazlH&theme=merko)](https://github.com/aboalfazlH)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aboalfazlH&theme=merko&background=0d1117&stroke=30363d&ring=00FF41&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff)](https://github.com/aboalfazlH)

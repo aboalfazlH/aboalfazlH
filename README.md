@@ -2,9 +2,12 @@
 
 i'm aboalfazlH backend developer with python,django
 
-### My activity graph
+### My stats
 [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=aboalfazlH&theme=merko)](https://github.com/aboalfazlH)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aboalfazlH&theme=merko&background=0d1117&stroke=30363d&ring=00FF41&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff)](https://github.com/aboalfazlH)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=bugbounted&theme=radical&no-frame=false&no-bg=)
+![GitHub Contributions](https://github.com/aboalfazlH/aboalfazlH/blob/main/github-contribution-grid-snake.svg)
+
 
 ### 🧠 Back-End
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)

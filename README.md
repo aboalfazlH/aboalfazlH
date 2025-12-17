@@ -1,7 +1,7 @@
 <div style="text-align:center;">
 
 # Hi👋
-i'm Seyed aboalfazl hashemi madani, a full stack developer
+i'm Seyed aboalfazl, a full stack developer
 
 
 ### My stats
